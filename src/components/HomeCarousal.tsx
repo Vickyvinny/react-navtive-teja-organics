@@ -87,6 +87,7 @@ export default class HomeCarousel extends Component {
           inactiveDotStyle={styles.inactiveDot}
           containerStyle={styles.paginationContainer}
         />
+
         
       </View>
     );
