@@ -1,0 +1,25 @@
+import {colors} from './Colors';
+
+export const customStyles = {
+  stepIndicatorSize: 32,
+  currentStepIndicatorSize: 32,
+  separatorStrokeWidth: 2,
+  currentStepStrokeWidth: 3,
+  stepStrokeCurrentColor: colors.lightGreen,
+  stepStrokeWidth: 2,
+  stepStrokeFinishedColor: colors.lightGreen,
+  stepStrokeUnFinishedColor: colors.grey,
+  separatorFinishedColor: colors.lightGreen,
+  separatorUnFinishedColor: colors.grey,
+  stepIndicatorFinishedColor: colors.lightGreen,
+  stepIndicatorUnFinishedColor: colors.white,
+  stepIndicatorCurrentColor: colors.white,
+  stepIndicatorLabelFontSize: 13,
+  currentStepIndicatorLabelFontSize: 13,
+  stepIndicatorLabelCurrentColor: colors.lightGreen,
+  stepIndicatorLabelFinishedColor: colors.white,
+  stepIndicatorLabelUnFinishedColor: colors.grey,
+  labelColor: colors.secondGrey,
+  labelSize: 13,
+  currentStepLabelColor: colors.grey,
+};
